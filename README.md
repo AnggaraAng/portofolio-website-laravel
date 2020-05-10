@@ -1,4 +1,4 @@
-<p align="center"><img src="C:\xampp\htdocs\website-portofolio-laravel\resources\img\luckycious.png" width="400"></p>
+<p align="center"><img src="resources/img/luckycious.png" width="400"></p>
 
 ## About Laravel
 
